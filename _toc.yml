@@ -18,9 +18,10 @@ chapters:
     - file: module_01/HW_03
 - file: module_02/README
   sections:
-    - file: module_02/random_games
+    - file: module_02/drop_keys
+    - file: module_02/HW_04
     - file: module_02/bus_wait
-    - file: module_02/dice_game
+    - file: module_02/HW_05
 - file: module_03/README
   sections:
     - file: module_03/challenger
